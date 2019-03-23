@@ -1,0 +1,14 @@
+.squareNotClicked {
+    background: #DDD;
+    outline: none;
+}
+
+.squareClicked {
+    background: #000;
+    outline: none;
+    border: none;
+}
+
+.mined {
+    background: red;
+}
